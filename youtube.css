@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+.side{
+    display: flex;
+    flex-direction: column;
+}
+.sideitem{
+    padding: 10px;
+}
+.big{
+    display: flex;
+}    
